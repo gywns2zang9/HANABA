@@ -7,8 +7,20 @@
 4. 금융상품알고리즘
 5. 서비스 대표 기능
 6. 느낀점/후기
-7. 기타
+7. 실행
+   env파일은 backend 폴더로
+   backend에서
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   python manage.py makemigrations
+   python manage.py migrate
+   python manage.py runserver
 
+   frontend에서
+   npm install
+   npm run dev
+   
 ## 화면 구성
 ### 메인 홈
 ![image](https://github.com/user-attachments/assets/61e92224-1075-4b17-89c4-ac41ac982e36)
