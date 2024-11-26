@@ -23,3 +23,5 @@
 ![image](https://github.com/user-attachments/assets/e4d046c6-618b-4205-a8a3-d108783cdd25)
 ### 커뮤니티 페이지
 ![image](https://github.com/user-attachments/assets/98571f7c-13aa-4ac6-b378-1619ba45efd1)
+### 마이페이지
+![image](https://github.com/user-attachments/assets/539f6030-b48d-4c25-a1f2-4ddd8a962263)
